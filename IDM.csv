@@ -1,0 +1,17 @@
+employeeId,firstName,lastName,fullName,email,Location,type
+22035,Anvesh,Ambati,Ambati Anvesh,ambatianvesh1234@gmail.com,Hyd,active
+22050,Babji,Ega,Ega Babji,20691F0014@mits.ac.in,Hyd,inactive
+#22057,Sai Mahesh,Kotakonda Palegar,Kotakonda Palegar Sai Mahesh,kpsaimahesh20@gmail.com,Hyd,inactive
+22065,Manasa,Ambati,Ambati Manasa,ambatimanasa1998@gmail.com,kdp,inactive
+#22066,Manjunath,Munigoti,Munigoti Manjunath,manjunathmunigoti@gmail.com,Bglr,active
+22067,Saleem,Shaik Mohammed,Shaik Mohammed Saleem,shaiksaleem9974@gmail.com,Bglr,inactive
+22068,Madhavi,Gollapalli,Gollapalli Madhavi,gmadhavi7000@gmail.com,Bglr,active
+22072,Teja,Evuri,Evuri Teja,tejanani8242@gmail.com,Bglr,inactive
+22079,Gowthami,Thatha Gari,Thatha Gari Gowthami,tgowthamireddy123@gmail.com,Bglr,inactive
+22083,Bhargav Reddy,Dadam,Dadam Bhargav Reddy,bhargavreddydadam143@gmail.com,Bglr,active
+22085,Mallikarjuna Reddy,Chintapalli Sreenivasulu,Chintapalli Sreenivasulu Mallikarjuna Reddy,csmallikarjunareddy15798@gmail.com,Bglr,inactive
+22087,Tarun Kumar Reddy,Thatti,Thatti Tarun Kumar Reddy,tarunkumarreddy04@gmail.com,Chennai,active
+22096,Udaykumar,Bharnepalli,Bharnepalli Udaykumar,udaykumar03.b@gmail.com,Chennai,active
+22115,Jhansi,Tannerru,Tannerru Jhansi,jhansihoney59@gmail.com,Chennai,inactive
+22119,Murali,Bommisetti,Bommisetti Murali,bommisettymurali5@gmail.com,Chennai,active
+22197,Sai Charan,Donthram,Donthram Sai Charan,saicharandonthram053@gmail.com,Chennai,active
